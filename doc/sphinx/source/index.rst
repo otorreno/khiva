@@ -8,7 +8,7 @@ Khiva [#f1]_ is an open-source library of efficient algorithms to analyse time s
 
 Khiva provides a mean for time series analytics at scale. These analytics can be exploited in a wide range of use cases across several industries, like energy, finance, e-health, IoT, music industry, etc. 
 
-This is just the beginning, so stay tuned as more features are coming ...  
+This is just the beginning, so stay tuned as more features are coming...  
 
 `Gitter <https://gitter.im/shapelets-io/khiva>`_ is the place for discussions and questions about 
 Khiva library. We use the `GitHub Issue Tracker <https://github.com/shapelets/khiva/issues>`_ to manage bug reports 
